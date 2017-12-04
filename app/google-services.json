@@ -1,0 +1,113 @@
+{
+  "project_info": {
+    "project_number": "609133539699",
+    "firebase_url": "https://solochefev.firebaseio.com",
+    "project_id": "solochefev",
+    "storage_bucket": "solochefev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609133539699:android:94b01ddbf27b18e6",
+        "android_client_info": {
+          "package_name": "com.tcdata.andrewrichardson.chef_ev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609133539699-g9r0v3hgqra3sp5io6a7ran34v1pvkjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcdata.andrewrichardson.chef_ev",
+            "certificate_hash": "ec3e3898737c723b0cf95dafc688f94780fab1ab"
+          }
+        },
+        {
+          "client_id": "609133539699-32pif28tt943iqvhnprnupf2gblssrkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqbdrgBrB-_y5eP1KpOvJujgE2ouZRbYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609133539699-eujklt3egfjct3j5oi21nk05sj189vri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "t-and-cdata.com.ChefEV"
+              }
+            },
+            {
+              "client_id": "609133539699-32pif28tt943iqvhnprnupf2gblssrkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609133539699:android:f14983ecf883f0af",
+        "android_client_info": {
+          "package_name": "com.tcdata.andrewrichardson.chef_ev_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609133539699-havfvjes9bqtjvn5afp7hrnoap1ra7fv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tcdata.andrewrichardson.chef_ev_app",
+            "certificate_hash": "ec3e3898737c723b0cf95dafc688f94780fab1ab"
+          }
+        },
+        {
+          "client_id": "609133539699-32pif28tt943iqvhnprnupf2gblssrkd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqbdrgBrB-_y5eP1KpOvJujgE2ouZRbYQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609133539699-eujklt3egfjct3j5oi21nk05sj189vri.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "t-and-cdata.com.ChefEV"
+              }
+            },
+            {
+              "client_id": "609133539699-32pif28tt943iqvhnprnupf2gblssrkd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
